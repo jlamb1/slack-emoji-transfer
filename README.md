@@ -1,4 +1,4 @@
-# Transfer Slack Emojis
+# Transfer Slack Emojis -under construction, do not use
 
 Simple script used in addition to [Emojipacks](https://github.com/lambtron/emojipacks) to transfer emojis from one Slack workspace to another
 
